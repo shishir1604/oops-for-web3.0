@@ -1,10 +1,10 @@
 import java.util.Scanner;
-
+//displays schemes and inputs values of amount rate and duration 
 class schemes extends account
 {
     static double amt,rate;
     static int time,c=0;
-    schemes()
+    schemes()          //constructor to initialise class variables.
     {
         this.amt=0.0;
         this.time=0;
@@ -19,7 +19,7 @@ class schemes extends account
         System.out.println("4. simple lending @6% from third party");
         System.out.println("Enter your choice");
         int i=obj.nextInt();
-        switch(i)
+        switch(i)// to carry the calculation for corresponding scheme
         {
             case 1:
             {
