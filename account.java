@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//this class is just for inputting basic bank details of customer.
 public class account 
 {
     String name,accno,type;
