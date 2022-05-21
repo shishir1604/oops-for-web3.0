@@ -26,7 +26,7 @@ Main-      this is main which contains the main() function.
 
 
 
-this project is DECENTRALISED in a way because it does not depends on any other external entity. it handles its own data and works independently. so external internet shutdown or bloackage in data flow can affect this project.
+this project is CENTRALISED . It works independently . Every part from taking input to producing corresponding output is carried out by this project. It is not distributed over a network where several nodes are involved to perform a part of calculation as in decentralised system.
 
 
 
