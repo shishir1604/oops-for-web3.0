@@ -21,3 +21,45 @@ Main-      this is main which contains the main() function.
 			in this class we can create a array of objects of execute class to carry out loan service for a number of customers.
 			to run this project we have to run the main class.
 
+
+
+
+
+
+this project is DECENTRALISED in a way because it does not depends on any other external entity. it handles its own data and works independently. so external internet shutdown or bloackage in data flow can affect this project.
+
+
+
+
+
+
+
+Difference between Centralised and decentralised database:
+centralised- there is a common point through which every data must paas.
+Advantagaes-
+
+1. defined command chain- every member of an organisation associated with the centralised command chain know the command and course of duty they have to 			   carry out.
+2. reduced cots- less cost to maintain.
+3. quick decision implementation - since there are less people and less level of authorities involved so any change can be implemented faster.
+
+Disadvantage-
+
+1. trust issues
+2. secuirity issue
+3. less scalable
+
+DECENTRALISED-decentralized internet connection relies on a peer-to-peer network built on a community of users whereby no one single entity is ever in control.Implementation of blockchain would aid tremendously.
+
+Advantages-
+
+1. full control-it gives full control to its user over a transaction.
+2. data cannot be altered or deleted- blockchain technology is append only. so data is immutable once it is stored.
+3. secure- due to cryptography
+4. less censorship
+5. open development
+
+Disadvantage-
+1. cost
+2. crime
+3. volatile cryptocurrency
+4. conflict among users
